@@ -2,6 +2,7 @@
 some sample code for YOLO and many more
 
 pip install ultralytics
+
 pip install opencv-python
 
 ## Install ByteTrack
